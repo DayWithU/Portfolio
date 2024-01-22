@@ -30,7 +30,9 @@ About me :
 [discord]: https://discord.gg/
 
 
+
 # Skills & Projects 
+
 - **SQL** : [Aircargo Analysis](https://github.com/shubh-2698/AirCargo-Analysis), [Employee Performance Mapping](https://github.com/shubh-2698/Employee_Mapping), [Nashville Data Cleaning](https://github.com/shubh-2698/Nashville-Data-cleaning)
 - **Tableau** : [Regional Sales Comparison](https://public.tableau.com/app/profile/shubh2698/viz/SalesComparisonbyRegionSimplilearn/Dashboard1), [World's Biggest Military Spenders](https://public.tableau.com/app/profile/shubh2698/viz/MakeovermondayTesting/Dashboard1), [Others](https://public.tableau.com/app/profile/shubh2698)
 - **Power BI** : [365 Student Dashboard](https://www.novypro.com/project/shubh2698-2), [Data Science Job Salaries](https://www.novypro.com/project/shubh2698-1), [iPhone Reviews Analysis](https://www.novypro.com/project/iphone-reviews)
